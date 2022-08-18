@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(141, 141, 179);
+}
+
+.price {
+    background-image: url(/img/red-button.png);
+    width: 141px;
+    height: 38px;
+    border: none;
+    color: rgb(243, 246, 248);
+
+}
+
+.old-price {
+    text-decoration: line-through;
+}
+
+/* .contacts {
+    display: flex;
+    flex-direction: column;
+} */
+
+
+
+.btn {
+    width: 300px;
+    height: 38px;
+    background-color: #EE3643;
+    padding: 10px 40px;
+}
